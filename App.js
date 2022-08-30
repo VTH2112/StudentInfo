@@ -10,6 +10,7 @@ import RenderScreen from './screens/renderScreen'
 import { Provider } from 'react-redux';
 import { store } from './src/redux/store'
 const Tab = createBottomTabNavigator()
+// TEST GIT PUSH
 const App = () => {
   return (
     <Provider store={store}>
